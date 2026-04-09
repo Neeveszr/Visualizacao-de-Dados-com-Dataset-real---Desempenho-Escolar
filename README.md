@@ -15,20 +15,20 @@ Ao longo da atividade, foram construídos gráficos com o objetivo de identifica
 
 Analisar o desempenho de estudantes em diferentes disciplinas e investigar, por meio de gráficos, possíveis padrões relacionados a fatores como:
 
-- grupo social;
-- nível de escolaridade dos pais;
-- preparação para testes;
-- gênero;
-- grupo racial/étnico.
+- Grupo social;
+- Nível de escolaridade dos pais;
+- Preparação para testes;
+- Gênero;
+- Grupo racial/étnico.
 
 A proposta da atividade é escolher visualizações adequadas para cada pergunta e justificar as decisões com base na clareza e na eficácia da comunicação visual.
 
 A análise busca responder, principalmente, às seguintes questões:
 
-- qual gráfico é mais adequado para cada tipo de dado e pergunta analítica?
-- como comparar o desempenho dos estudantes entre diferentes grupos?
-- como visualizar distribuições e variações nas notas?
-- como identificar padrões e relações entre variáveis de forma clara?
+- Qual gráfico é mais adequado para cada tipo de dado e pergunta analítica?
+- Como comparar o desempenho dos estudantes entre diferentes grupos?
+- Como visualizar distribuições e variações nas notas?
+- Como identificar padrões e relações entre variáveis de forma clara?
 
 ## Dataset
 
@@ -36,14 +36,14 @@ O conjunto de dados utilizado foi o **Students Performance in Exams**, disponibi
 
 Ele contém informações sobre estudantes, incluindo:
 
-- gênero;
-- grupo racial/étnico;
-- nível de escolaridade dos pais;
-- tipo de almoço;
-- curso preparatório;
-- notas em matemática;
-- notas em leitura;
-- notas em escrita.
+- Gênero;
+- Grupo racial/étnico;
+- Nível de escolaridade dos pais;
+- Tipo de almoço;
+- Curso preparatório;
+- Notas em matemática;
+- Notas em leitura;
+- Notas em escrita.
 
 ## Tecnologias Utilizadas
 
@@ -57,28 +57,28 @@ Ele contém informações sobre estudantes, incluindo:
 
 O notebook apresenta diferentes desafios de visualização, cada um contendo:
 
-1. uma pergunta estatística;
-2. a escolha do tipo de gráfico;
-3. a justificativa da escolha;
-4. a análise dos resultados observados.
+1. Uma pergunta estatística;
+2. A escolha do tipo de gráfico;
+3. A justificativa da escolha;
+4. A análise dos resultados observados.
 
 Entre os gráficos utilizados, estão:
 
-- gráfico de barras;
-- histograma;
-- boxplot;
-- gráfico de dispersão;
-- heatmap.
+- Gráfico de barras;
+- Histograma;
+- Boxplot;
+- Gráfico de dispersão;
+- Heatmap.
 
 ## Principais Análises Realizadas
 
 Durante a atividade, foram exploradas relações como:
 
-- comparação de médias entre categorias;
-- distribuição de variáveis quantitativas;
-- identificação de dispersão e possíveis valores extremos;
-- comparação entre desempenho em diferentes disciplinas;
-- observação de padrões entre grupos categóricos.
+- Comparação de médias entre categorias;
+- Distribuição de variáveis quantitativas;
+- Identificação de dispersão e possíveis valores extremos;
+- Comparação entre desempenho em diferentes disciplinas;
+- Observação de padrões entre grupos categóricos.
 
 ## Contexto da Análise
 
