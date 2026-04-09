@@ -1,6 +1,7 @@
 # Atividade de Visualização de Dados — Desempenho Escolar (Kaggle)
 
-Projeto desenvolvido para a disciplina de **Análise Avançada de Dados**, com o objetivo de aplicar conceitos de **visualização de dados** na exploração de um conjunto de dados sobre desempenho escolar.
+**5º Período — UNIFSA**
+**Disciplina: Análise Avançada de Dados**
 
 ## Objetivo
 
